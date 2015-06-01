@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MPG Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="miles_driven_">Miles Driven:</string>
+    <string name="gallons_used_">Gallons Used:</string>
+    <string name="clear">Clear</string>
+    <string name="mpg_">MPG:</string>
+    <string name="mpg">MPG</string>
+
+</resources>
